@@ -8,3 +8,4 @@ dependencies:
   - dill
   - pandas
   - scikit-learn
+  - xlrd
